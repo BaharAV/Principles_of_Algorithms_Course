@@ -1,0 +1,3 @@
+C:/Users/bahar/Desktop/roodkhane/cmake-build-debug/CMakeFiles/roodkhane.dir
+C:/Users/bahar/Desktop/roodkhane/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bahar/Desktop/roodkhane/cmake-build-debug/CMakeFiles/rebuild_cache.dir

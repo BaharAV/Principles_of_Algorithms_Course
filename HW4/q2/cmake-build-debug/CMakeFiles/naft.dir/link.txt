@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\naft.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\naft.dir/objects.a @CMakeFiles\naft.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\naft.dir/objects.a -Wl,--no-whole-archive  -o naft.exe -Wl,--out-implib,libnaft.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\naft.dir\linklibs.rsp
